@@ -1,1 +1,1 @@
-# DeepLearning_Mini_Project
+CIFAR-10 Image Classification with ResNet Architecture
